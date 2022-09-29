@@ -85,8 +85,8 @@ LUT (Look Up Table)
 
 -------------
 <참고 자료>  
-*,** https://www.japanistry.com/understanding-gamma-in-photography/ 
-*** 
-**** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html 
-! https://learn.foundry.com/course/5515/play/color-management-fundamentals-aces-workflows-in-nuke  
+*,** https://www.japanistry.com/understanding-gamma-in-photography/   
+*** https://www.ejezeta.cl/2015/10/23/introduccion-al-lwf-linear-workflow-con-v-ray-parte-1/  
+**** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html   
+! https://learn.foundry.com/course/5515/play/color-management-fundamentals-aces-workflows-in-nuke    
 
