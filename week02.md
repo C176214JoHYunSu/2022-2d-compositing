@@ -21,14 +21,14 @@ Linear Workflow
 >> (화면 이미지의) 밝기의 곡선
 
 
->><그림1>![image](https://user-images.githubusercontent.com/113420816/192740945-a14ade35-b597-4710-86bf-69382c055ce9.png)
+>><그림1*>![image](https://user-images.githubusercontent.com/113420816/192740945-a14ade35-b597-4710-86bf-69382c055ce9.png)
 
 
 > CRT 모니터에서는 실제 Linaer을 표준으로 작업한 이미지의 감마가 나오지 않음
 >> 따라서, Gamma를 더 높게 잡아 작업해(역함수) linear를 맞춤
 
 
->>(ex) <그림2>![image](https://user-images.githubusercontent.com/113420816/192751345-412c4447-45ef-4a70-bd20-9855017b4057.png)
+>>(ex) <그림2**>![image](https://user-images.githubusercontent.com/113420816/192751345-412c4447-45ef-4a70-bd20-9855017b4057.png)
 
 
 
@@ -38,4 +38,13 @@ Linear Workflow
 
 Color Management
 -------------
-> 
+> OCIO (Open Color Input Output) = 컴퓨터 이미지와 비주얼 이펙트에 초점이 맞춰진 통일된 컬러 매니지먼트 공간 (*** a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation)
+> 아
+
+
+
+-------------
+<참고 자료>
+*
+**
+*** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html
