@@ -44,7 +44,7 @@ Color Management
 
 
 -------------
-<참고 자료>
-*  
-**  
-*** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html  
+<참고 자료>  
+*
+**
+*** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html
