@@ -39,12 +39,13 @@ Linear Workflow
 Color Management
 -------------
 > OCIO (Open Color Input Output) = 컴퓨터 이미지와 비주얼 이펙트에 초점이 맞춰진 통일된 컬러 매니지먼트 공간 (*** a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation)
-> 아
 
+> ACES
+>> 기준이 되는 컬러 스페이스
+>> 디스플레이가 표현할 수 있는 컬러 스페이스와 촬영본이 표현할 수 있는 컬러 스페이스가 다르 > ACES 라는 공통된 컬러 스페이스로 작업 후, ACES CG로 합성 작업
 
 
 -------------
 <참고 자료>  
-*
-**
-*** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html
+*,** https://www.japanistry.com/understanding-gamma-in-photography/  
+*** https://opencolorio.readthedocs.io/en/latest/concepts/overview/overview.html  
