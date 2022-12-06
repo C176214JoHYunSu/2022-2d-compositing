@@ -1,5 +1,5 @@
           원본 
-           ^ 
+           |
 keylight > copy
 copy 노드
 원본에 알파만 넣고
