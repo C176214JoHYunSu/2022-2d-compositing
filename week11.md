@@ -3,6 +3,9 @@ Week 11
 
 conerpin
 --------
+> 코너핀 2개 활용 
+> set to input - from head - set to input - copy 'from' - 사이즈 맞춰짐
+>
 
 
 project 3d3
